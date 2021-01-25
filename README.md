@@ -1,16 +1,15 @@
 # TIL
 Today I learned..
 
-<h1>title</h1>
-
-#Title
+# Description
+Logs of what Hangyul learned and some silly comments
 
 ## Installation
 
 You don't need to install anything.
 Just open and read..
 
-## Sample code
+<!-- ## Sample code 
 
 If you want to emphasize code, try `$ python server.py`
 
@@ -26,12 +25,13 @@ if guess-answer == 0:
 else:
     print('Wrong! The answer was {}'format.(answer))
 ```
+-->
 
 ## My favorites
 
 - subway sandwich
 - working out
-- traveling
+- gardening
 
 ## In order to contact me,
 
@@ -39,9 +39,8 @@ else:
 2. Search username, `hanana1253`
 3. Find out my email.
 
-[Go to google](https://www.google.com/)
+[Go to my blog](https://hanana1253.github.io)
 
-![](https://avatars.githubusercontent.com/u/22283213?s=400&u=29a5108939d818818667a35584a7a291f6db8a1a&v=4)
-
+![](https://avatars.githubusercontent.com/u/76270892?s=460&u=a4ac523ba157f035ba3a847c854ea8e77e17cb08&v=4)
 
 
