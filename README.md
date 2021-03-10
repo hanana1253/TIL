@@ -35,7 +35,7 @@ else:
 
 ## In order to contact me,
 
-- [Go to my blog](https://hanana1253.github.io)`
+- [Go to my blog](https://hanana1253.github.io)
 - Search username, `hanana1253` and follow me on github.
 
 
