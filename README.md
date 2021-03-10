@@ -1,13 +1,13 @@
 # TIL
 Today I learned..
 
-# Description
-Logs of what Hangyul learned and some silly comments
+## Description
+Logs of what Hanana learned in class
 
 ## Installation
 
 You don't need to install anything.
-Just open and read..
+Just open and read.
 
 <!-- ## Sample code 
 
@@ -35,12 +35,10 @@ else:
 
 ## In order to contact me,
 
-1. Go to https://www.github.com/
-2. Search username, `hanana1253`
-3. Find out my email.
+- [Go to my blog](https://hanana1253.github.io)`
+- Search username, `hanana1253` and follow me on github.
 
-[Go to my blog](https://hanana1253.github.io)
+
 
 ![](https://avatars.githubusercontent.com/u/76270892?s=460&u=a4ac523ba157f035ba3a847c854ea8e77e17cb08&v=4)
-
 
