@@ -32,7 +32,7 @@ class SinglyLinkedList:
         else:
             curr = self.head
             for _ in range(index):
-                curr = node.next
+                curr = curr.next
             self.head = curr
 
     def access(self, index):
