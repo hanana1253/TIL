@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./toggle.css">
+</head>
+<body>
+  <video src="">
+  </video>
+  <button class="setting-popup-btn">
+    설정
+  </button>
+  <ul class="setting-list hidden">
+    <li><a href="">1단계</a></li>
+    <li><a href="">2단계</a></li>
+    <li><a href="">3단계</a></li>
+    <li><a href="">4단계</a></li>
+  </ul>
+</body>
+<script>
+const $settings_button = document.querySelector('.setting-popup-btn')
+const $setting_list = document.querySelector('.setting-list')
+$settings_button.onclick = e => {
+  $setting_list.classList.toggle('hidden')
+}
+
+</script>
+</html>
