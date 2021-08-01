@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+practicefiles/
+
+.DS_Store
+0*.js
+practice/
+
+Algorithm/\352\265\254\355\230\204/

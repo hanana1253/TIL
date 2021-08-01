@@ -5,11 +5,14 @@
 
 num = int(input('몇 명을 먹이고자 하는고?'))
 
-
 if num <= 2:
-    result = '당연히 {}마리, 1인 1닭의 미덕을 지키거라'.format(num)
+    print('당연히 {}마리, 1인 1닭의 미덕을 지키거라'.format(num))
+elif num % 3 == 0:
+    result = (num * 2) / 3 
+elif num % 2 == 0:
+    result = num / 2 + 1
 else:
-    result = '아직 만드는 중'
+    result = '아직 하는 중'
 
-print(result)
+print('{}'.format(result))
 
